@@ -1,4 +1,4 @@
-import{r as Ve,d as Pv,j as Ti}from"./index-BQ9sqtMi.js";/**
+import{r as Ve,h as Pv,j as Ti}from"./index-BQ9sqtMi.js";/**
  * @license
  * Copyright 2010-2024 Three.js Authors
  * SPDX-License-Identifier: MIT
